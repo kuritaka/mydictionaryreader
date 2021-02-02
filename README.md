@@ -36,7 +36,7 @@ The structure of the database is simple, so you can convert from various formats
 ## Installation
 - Download myfastdictionary from GitHub
 - Upload myfastdictionary in Document Root in Apache # /var/www/html/myfastdictionary
-- Copy sqlite/sample.sqlite.sample to sqlite/eijiro.sqlite
+- Copy sqlite/sample.sqlite to sqlite/eijiro.sqlite, waeijiro.sqlite, reijiro.sqlite etc
 
 
 ## How to create Database
