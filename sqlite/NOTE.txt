@@ -1,0 +1,7 @@
+# sqlite3 eijiro.db ".table"
+dic
+
+# sqlite3 eijiro.db ".schema dic"
+CREATE TABLE "dic"(word text, desc text);
+
+#  sqlite3 eijiro.db "select * from dic" |more

@@ -1,0 +1,15 @@
+
+sqlite/*.db
+sqlite/*.sqlite
+!sqlite/sample.sqlite
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+
+.vscode/*
