@@ -1,8 +1,11 @@
-# MyFastDictionary
+# MyDictionaryReader (MyFastDictionary)
+
+## News
+Changed the project name from MyFastDictionary to MyDictionaryReader 
 
 
-## What is MyFastDictionary?
-MyFastDictionary is a web system for dictionaries.
+## What is MyDictionaryReader?
+MyDictionaryReader is a web system for dictionaries.
 This is very simple and very useful.  
 
 I made it so that I can search Eijiro's data which is a famous dictionary data in Japan.
@@ -34,8 +37,8 @@ The structure of the database is simple, so you can convert from various formats
 * jQuery v3.2.1
 
 ## Installation
-- Download myfastdictionary from GitHub
-- Upload myfastdictionary in Document Root in Apache # /var/www/html/myfastdictionary
+- Download mydictionaryreader from GitHub
+- Upload mydictionaryreader in Document Root in Apache # /var/www/html/mydictionaryreader
 - Copy sqlite/sample.sqlite to sqlite/eijiro.sqlite, waeijiro.sqlite, reijiro.sqlite etc
 
 
@@ -88,7 +91,7 @@ $db['eijiro'] = array(
 ```
 //URL Settings
 $config['base_url'] = '';
-//$config['base_url'] = 'http://x.x.x.x/myfastdictionary/';
+//$config['base_url'] = 'http://x.x.x.x/mydictionaryreader/';
 ```
 
 

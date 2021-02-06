@@ -25,7 +25,7 @@
       <div class="container">
         <div class="navbar-header">
           <!-- The mobile navbar-toggle button can be safely removed since you do not need it in a non-responsive implementation -->
-          <a class="navbar-brand" href="<?php echo base_url('/') ?>"><b>MyFastDictionary</b></a>
+          <a class="navbar-brand" href="<?php echo base_url('/') ?>"><b>MyDictionaryReader</b></a>
         </div>
         <!-- Note that the .navbar-collapse and .collapse classes have been removed from the #navbar -->
         </div><!--/.nav-collapse -->
