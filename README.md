@@ -113,5 +113,6 @@ $config['per_page'] = "50";
 ## ChangeLog
 v2.0 
   * Change Project Name from MyFastDictionary to MyDictionaryreader
+
 v1.0
   * First Release
