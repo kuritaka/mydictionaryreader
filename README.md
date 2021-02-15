@@ -27,7 +27,7 @@ The structure of the database is simple, so you can convert from various formats
 ![Network1](screenshots/mobile1.png)
 
 ## Dependencies
-* PHP
+* PHP (php-sqlite3 php-mbstring)
 * Web Server like Apache, Nginx etc
 * SQLite3
 
