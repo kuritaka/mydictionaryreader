@@ -24,7 +24,7 @@ The structure of the database is simple, so you can convert from various formats
 #### Screenshot2
 ![Network1](screenshots/PC2.png)
 #### Screenshot3
-![Network1](screenshots/mobile1.png)
+<img src="screenshots/mobile1.png" width="300px">
 
 ## Dependencies
 * PHP (php-sqlite3 php-mbstring)
